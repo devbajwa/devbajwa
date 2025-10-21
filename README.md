@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @devbajwa
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Vue
+- 👀 I’m interested in web applications development
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me? contact wbajwa313@gmail.com
 
