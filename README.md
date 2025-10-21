@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devbajwa
 - 👀 I’m interested in web applications development
-- 💞️ I’m looking to collaborate on Web development projects
+- 💞️ I’m looking to collaborate on SaaS development projects
 - 📫 How to reach me? contact wbajwa313@gmail.com
 
 <!---
